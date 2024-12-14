@@ -6,21 +6,21 @@ A simple and efficient Library Management System built with Python to streamline
 
 🚀 Features
 
-📖 Add Books: Add new books to the library database.
+- 📖 Add Books: Add new books to the library database.
 
-🔍 Search Books: Search for books by title, author, or ISBN.
+- 🔍 Search Books: Search for books by title, author, or ISBN.
 
-🛠️ Update Records: Edit book details.
+- 🛠️ Update Records: Edit book details.
 
-📤 Borrow & Return Books: Keep track of borrowed and returned books.
+- 📤 Borrow & Return Books: Keep track of borrowed and returned books.
 
-🗑️ Delete Books: Remove outdated or lost books from the database.
+- 🗑️ Delete Books: Remove outdated or lost books from the database.
 
-📄 View All Books: Display all available books in the library.
+- 📄 View All Books: Display all available books in the library.
 
 
 💾 Tech Stack
 
-Programming Language: Python
+- Programming Language: Python
 
-Data Storage: CSV File
+- Data Storage: CSV File
