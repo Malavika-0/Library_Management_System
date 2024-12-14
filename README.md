@@ -1,13 +1,15 @@
 # Library_Management_System
-📚 Library Management System in Python 📖
+📚 Library Management System
+A simple and efficient Library Management System built with Python to streamline library operations such as managing books, borrowing, and returning records.
 
-I've built a Library Management System using Python to efficiently manage book records and streamline library operations!
+🚀 Features
+📖 Add Books: Add new books to the library database.
+🔍 Search Books: Search for books by title, author, or ISBN.
+🛠️ Update Records: Edit book details.
+📤 Borrow & Return Books: Keep track of borrowed and returned books.
+🗑️ Delete Books: Remove outdated or lost books from the database.
+📄 View All Books: Display all available books in the library.
 
-🔑 Features:
-
-📥 Add Books: Seamlessly add new books to the library database.
-🔍 Search Books: Quickly search for books by title, author, or ID.
-📤 Borrow & Return: Track borrowed books and manage returns.
-🗑️ Remove Books: Easily remove outdated or unavailable books.
-📊 Display Records: View all books and their availability.
-📂 Dataset: Book records stored in a CSV file for simplicity and portability.
+💾 Tech Stack
+Programming Language: Python
+Data Storage: CSV File
